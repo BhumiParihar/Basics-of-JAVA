@@ -1,6 +1,6 @@
 /* **data types** 
 There are different types of data that can be used in a java program. Java uses data types to identify data and dictates the method of handling it
-A data msy be character, integer,floating point number or a string.
+A data may be character, integer, floating point number or a string.
 Broadly there are two types of Java data types:
 1: Primitive/fundamental/intrinsic data types
 2: Reference/composite/extrinsic data types.
