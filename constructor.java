@@ -1,11 +1,3 @@
-/******************************************************************************
-
-Welcome to GDB Online.
-GDB online is an online compiler and debugger tool for C, C++, Python, Java, PHP, Ruby, Perl,
-C#, OCaml, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS, JS, SQLite, Prolog.
-Code, Compile, Run and Debug online from anywhere in world.
-
-*******************************************************************************/
 /* CONSTRUCTORS : These are methods that are invoked to create objects from the class blueprint.It has same name as that of class and is generally used for initialisation of variables.It does not have a return type.
 A class name in JAVA consists of compound words or phrases such that the first letter of each internal word is capitalized and rest of the characters in lowercase.*/
 class Cuboid
