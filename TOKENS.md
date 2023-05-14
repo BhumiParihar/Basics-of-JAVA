@@ -1,7 +1,7 @@
 **Tokens** :- These are the smallest individual unit in a program.
 Java provides us with the following tokens:
 
-* **Keywords**- these are the reserved words that has a special significance to the compiler and can't be used anywhere else.The keywords const and goto are reserved,even though are not currently used.
+* **Keywords**- These are the reserved words that has a special significance to the compiler and can't be used anywhere else.The keywords const and goto are reserved,even though are not currently used.
 
 * **Identifiers**- these are the names of variables,methods,classes,packages and interfaces.
   * while using identifiers the following set of rules are to be kept in mind-
