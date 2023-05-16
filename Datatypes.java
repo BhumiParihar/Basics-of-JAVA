@@ -39,7 +39,7 @@ reference or composite data typoes are secondary type of data. it is composed or
 these may be a class, array,interface or string
 
 **Variables and Constants** 
-variable is a name given to memory location where data is stored or needs to be stored. the general format of variable decleration is as follows:
+variable is a name given to memory location where data is stored or needs to be stored. the general format of variable declaration is as follows:
 <data-type><variable-name>;
 as given in above program n1,n2,n3,n4,n5,n6,n7,n8 are all variables of different data types as they are used to store the data allocated to them
 
