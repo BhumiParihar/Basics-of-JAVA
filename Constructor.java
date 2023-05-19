@@ -18,7 +18,7 @@ class Cuboid
 	    System.out.println("Volume of cuboid is = "+vol);
 	    }
 }
-/* Need for Constructor : whenever an object is created,it must be constructed usually with legal initial values automatically without being specified by the programmer,this will immensely relieve the progammer from initialising values of objects for large programs.This is done with the help of Constructor of the class,to which the objects belong to.
+/* Need for Constructor : Whenever an object is created,it must be constructed usually with legal initial values automatically without being specified by the programmer,this will immensely relieve the progammer from initialising values of objects for large programs.This is done with the help of Constructor of the class,to which the objects belong to.
 INVOKING A CONSTRUCTOR: constructor function gets called automatically whenever an object is created.*/
 class Cuboid
 {
