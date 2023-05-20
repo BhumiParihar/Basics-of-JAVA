@@ -1,4 +1,4 @@
-/* CONSTRUCTORS : These are methods that are invoked to create objects from the class blueprint.It has same name as that of class and is generally used for initialisation of variables.It does not have a return type.
+/* CONSTRUCTORS : These are methods that are invoked to create objects from the class blueprint.It has same name as that of class and is generally used for initialisation of variables. It does not have a return type.
 A class name in JAVA consists of compound words or phrases such that the first letter of each internal word is capitalized and rest of the characters in lowercase.*/
 class Cuboid
 {
@@ -18,8 +18,8 @@ class Cuboid
 	    System.out.println("Volume of cuboid is = "+vol);
 	    }
 }
-/* Need for Constructor : Whenever an object is created,it must be constructed usually with legal initial values automatically without being specified by the programmer,this will immensely relieve the progammer from initialising values of objects for large programs.This is done with the help of Constructor of the class,to which the objects belong to.
-INVOKING A CONSTRUCTOR: constructor function gets called automatically whenever an object is created.*/
+/* Need for Constructor : Whenever an object is created, it must be constructed usually with legal initial values automatically without being specified by the programmer, this will immensely relieve the progammer from initialising values of objects for large programs.This is done with the help of Constructor of the class, to which the objects belong to.
+INVOKING A CONSTRUCTOR: Constructor function gets called automatically whenever an object is created.*/
 class Cuboid
 {
 	double width;
