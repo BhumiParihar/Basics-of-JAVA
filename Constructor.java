@@ -1,4 +1,4 @@
-/* CONSTRUCTORS : These are methods that are invoked to create objects from the class blueprint.It has same name as that of class and is generally used for initialisation of variables. It does not have a return type.
+/* CONSTRUCTORS : These are methods that are invoked to create objects from the class blueprint. It has same name as that of class and is generally used for initialisation of variables. It does not have a return type.
 A class name in JAVA consists of compound words or phrases such that the first letter of each internal word is capitalized and rest of the characters in lowercase.*/
 class Cuboid
 {
