@@ -4,7 +4,7 @@ Constructor functions can be broadly classified under two groups, namely
 2. Parameterised Constructor*/
 
 /* **NON-PARAMETERISED CONSTRUCTOR** 
-As the name suggests that it doesn't have any parameter list i.e. accepts no parameters. Thus in the below example of the cuboid class the Cuboid() is a non-parameterised constructor.Constructors with no parameters are also defaukt constructor*/
+As the name suggests that it doesn't have any parameter list i.e. accepts no parameters. Thus in the below example of the cuboid class the Cuboid() is a non-parameterised constructor.Constructors with no parameters are also default constructor*/
 class Cuboid
 {
 	double width;
