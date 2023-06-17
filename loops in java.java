@@ -6,7 +6,7 @@ the given statement is satisfied or true. Java provides three kinds of loops:
 3. Do-While loops
 
 **Elements that control a loop:
-every loop has elements that control its execution. these elements can be grouped as:
+every loop has elements that control its execution. These elements can be grouped as:
 1. Initialisation expression: Before entering a loop, the variable taht controls the execution of it is initialisation.The initialisation of a 
 variable may be inside a loop or ourtside it.
 2. Test Expression: The test expression is a condition which decides whether the loop body will be executed or not.
