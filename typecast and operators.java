@@ -9,7 +9,7 @@ public class Main
 	}
 }
 
-/* 2. Explicit type conversion - a datatype of higher size cannot be assigned to a datatype to datatype of lower size.This is not done implicitly by the JVM and requires explicit casting ;a casting operation to be performed by the programmer.*/
+/* 2. Explicit type conversion - a datatype of higher size cannot be assigned to a datatype of lower size.This is not done implicitly by the JVM and requires explicit casting ;a casting operation to be performed by the programmer.*/
 public class Main
 {
     public static void main(String[] args) {
